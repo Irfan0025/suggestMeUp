@@ -6,7 +6,7 @@ Thank you to the following individuals for their contributions to the **SuggestM
 
 - **Irfan** - [Irfan0025](https://github.com/Irfan0025)
 - **Naveen** - [NaveenGitHubProfile](https://github.com/NaveenGitHubProfile) 
-- **Hemanth** - [HemanthGitHubProfile](https://github.com/HemanthGitHubProfile)
+- **Hemanth** - [HemanthGitHubProfile](https://github.com/Hemanthkumar432)
 
 ---
 
