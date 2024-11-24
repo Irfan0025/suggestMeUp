@@ -11,6 +11,7 @@ const HomePage = (props: any) => {
 
   const handleDrawerToggle = () => {
     console.log("Here");
+    // Add routes here
     setMobileOpen((prevState) => !prevState);
   };
 
